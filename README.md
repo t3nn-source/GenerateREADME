@@ -20,6 +20,7 @@ To contribute, make sure you are working in a different branch so as to not alte
 ## Tests
 ```
 To test the application, you can run the code in an IDE to test out different prompts.
+This video shows test footage and impelementation of the site. https://drive.google.com/file/d/12gCxQYr43XowhiLDw4sM6oILj4OqrxP4/view?usp=sharing
 ```
 
 ## License
